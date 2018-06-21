@@ -44,8 +44,8 @@
 	'query[X,Y]' : Checks if a cross exists at location [X,Y]
 	(displays 'full' or 'empty')\n
  	'add [X,Y]' : add a cross at the coordinates [X,Y]\n
-	'remove [X,Y]' : remove a cross from the coordinates[X,Y]\n
-	'display' : displays the grid with modifications\n
+	'remove [X,Y]' : remove a cross from the coordinates [X,Y]\n
+	'display' : display the grid with modifications\n
 	'quit' : quit battleships :c\n";
 		}
 	}
